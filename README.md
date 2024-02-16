@@ -1,2 +1,2 @@
 # Data_Visulaization_PowerBI
-Data visualization using Microsoft PowerBI on cricket dataset.s.
+Data visualization using Microsoft PowerBI on cricket datasets
